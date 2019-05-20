@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1006592111496",
+    "firebase_url": "https://hitalk-46721.firebaseio.com",
+    "project_id": "hitalk-46721",
+    "storage_bucket": "hitalk-46721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006592111496:android:13c3b94443655b45",
+        "android_client_info": {
+          "package_name": "com.example.hitalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006592111496-939v7nbhca6umbbnsqjgi4qpmi58tilq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hitalk",
+            "certificate_hash": "8d9ff3d2b6fb217f8e45817b46bb41c06ac019bc"
+          }
+        },
+        {
+          "client_id": "1006592111496-vhasp93kov1c5ef02p6cbuul5aamaisf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUsgIBFHSeYuV7AA8wF4_HacOWTZYXves"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006592111496-vhasp93kov1c5ef02p6cbuul5aamaisf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
